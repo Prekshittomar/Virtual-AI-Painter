@@ -5,7 +5,7 @@ import os
 import HTMod as htm
 
 
-brushThickness = 10
+brushThickness = 15
 eraserThickness = 80
 
 folderPath = "Headers"
